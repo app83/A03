@@ -11,7 +11,11 @@ GITHUB:
 2. Once you signin, you can click on the green "NEW" button to create a repository, which is a folder for a project. 
 3. When you click on the green button, you will get the options to add a repository name, add a description for the project, make the project either public or private, and to add a README file.
 4. Once all this information is added, you can click on the "create repository" button at the end.
-5. Once the repository is created, you can add files into the repository by clicking 
+5. Once the repository is created, you can add files into the repository by clicking on the "create new file" on the right side next to "upload files" button. 
+6. Clicking create new file, you will be taken to another page, where you can add a name for the file along with an extension of that file at the end of the name. 
+7. Next, you can add the code or text in the box below the name box. 
+8. Under the edit new file box, you can find the commit new file area. In that area, you can add a description and a title for the commit made. 
+9. Once everything is done, you can click on the "commit new file" button. 
 
 WEBSTORM:
 

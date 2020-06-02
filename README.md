@@ -1,6 +1,7 @@
-IS117-450: A03
+                                                       IS117-450: A03
 
 Definition of the terms: 
+  
   GIT: Git is an open source program for tracking changes in text files. It is the core technology that GitHub, the social and user interface, is built on top of.
 
   GITHUB: It is an open source version control, which allows you to keep track of changes made to source codes or other documents. Multiple people can work on the same document at the same time.
@@ -24,6 +25,7 @@ Definition of the terms:
   Fetch: When you use git fetch, you're adding changes from the remote repository to your local working branch without committing them. Fetching allows you to review changes before committing them to your local branch.
 
   Remote: This is the version of a repository or branch that is hosted on a server. Remote versions can be connected to local clones so that changes can be synced.
+
 
 References: 
 1. https://help.github.com/en/github/getting-started-with-github/github-glossary

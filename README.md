@@ -1,5 +1,20 @@
                                                        IS117-450: A03
 
+Step-by-step tutorial: 
+GIT:
+1. Go onto https://git-scm.com/downloads, to download git.
+2. Install the git file by double clicking on the downloaded file.
+3. 
+
+GITHUB:
+1. Go onto https://github.com and create an account.
+2. Once you signin, you can click on the green "NEW" button to create a repository, which is a folder for a project. 
+3. When you click on the green button, you will get the options to add a repository name, add a description for the project, make the project either public or private, and to add a README file.
+4. Once all this information is added, you can click on the "create repository" button at the end.
+5. Once the repository is created, you can add files into the repository by clicking 
+
+WEBSTORM:
+
 Definition of the terms: 
   
   GIT: Git is an open source program for tracking changes in text files. It is the core technology that GitHub, the social and user interface, is built on top of.

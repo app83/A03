@@ -2,9 +2,15 @@
 
 Step-by-step tutorial: 
 GIT:
-1. Go onto https://git-scm.com/downloads, to download git.
+1. Go onto https://git-scm.com/downloads, to download git as a local program.
 2. Install the git file by double clicking on the downloaded file.
-3. 
+3. This is a required plugin for Webstorm, so it has to be installed. 
+4. Once git is installed, open Webstorm.
+5. To display the Webstorm settings, press "Ctrl+Alt+S" and choose Version Control then Git from the left side.
+6. Click "Test" to make sure that Webstorm is connected to Git.
+7. The path in the location box should be auto detected. 
+8. If Git is installed correctly, you should get the message “Git Executed Successfully.” 
+9. Click "OK" to exit.
 
 GITHUB:
 1. Go onto https://github.com and create an account.
@@ -20,9 +26,22 @@ GITHUB:
 11. When you want to add this project onto your local computer, you can download or clone the folder by clicking on the "clone or download" green button on the right hand side. 
 
 WEBSTORM:
-1. 
-2.
-3.
+1. Go onto https://www.jetbrains.com/community/education/#students website.  
+2. Scroll down to "Individual licenses for students and teachers" section and click on the "apply now" button. 
+3. Once you click on that and enter all the information, you will get an email to verify and activate the key for the free version.
+4. Once it is ready, you can download the webstorm for your computer. 
+5. In Webstorm press "Ctrl+Alt+S" for system preferences and select version control Git and enter the path to the git.exe to connect git and to connect github account. 
+6. Next, it will ask for the user and password for the github account. 
+7. Once it is authenticated, it will connect github account with webstorm so you can add projects onto github.com.
+8. We can start creating projects from Webstorm, by clicking “Create New Project” onthe Webstorm main page.
+9. It will open up the box to name and to add the location for the project, once that is done, you can click on "Create".
+10. We can then create files by choosing File then New then HTML File then HTML 5.
+11. Then we have to name the file and it should be in lowercase.
+12. Once that is done, you can start writing code and edit it in the code box. 
+13. Files can also be added to git when "Add to Git" dialog opens up, simply click add and this will add it to local file system.
+14. Once code files are ready, we can commit the changes by clicking on the commit button at the end. This will open up the commit changes dialog box, in this box we can select the files we want to add the changes from, add a message and then click on the commit button at the bottom right side. 
+15. Changes can also be pushed onto a remote repository, by clicking “Ctrl, Shift, K” or we can go to VCS then Git and then Push.
+16. Once all is done then you would be able to see the changes pushed onto github.com. 
 
 Definition of the terms: 
   
@@ -53,3 +72,6 @@ Definition of the terms:
 
 References: 
 1. https://help.github.com/en/github/getting-started-with-github/github-glossary
+2. https://www.jetbrains.com/community/education/#students
+3. https://www.jetbrains.com/help/webstorm/using-git-integration.html
+4. https://guides.github.com/activities/hello-world/

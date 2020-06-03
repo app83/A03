@@ -16,8 +16,13 @@ GITHUB:
 7. Next, you can add the code or text in the box below the name box. 
 8. Under the edit new file box, you can find the commit new file area. In that area, you can add a description and a title for the commit made. 
 9. Once everything is done, you can click on the "commit new file" button. 
+10. You can create new files this way each time. 
+11. When you want to add this project onto your local computer, you can download or clone the folder by clicking on the "clone or download" green button on the right hand side. 
 
 WEBSTORM:
+1. 
+2.
+3.
 
 Definition of the terms: 
   

@@ -43,6 +43,8 @@ WEBSTORM:
 15. Changes can also be pushed onto a remote repository, by clicking “Ctrl, Shift, K” or we can go to VCS then Git and then Push.
 16. Once all is done then you would be able to see the changes pushed onto github.com. 
 
+
+
 Definition of the terms: 
   
   GIT: Git is an open source program for tracking changes in text files. It is the core technology that GitHub, the social and user interface, is built on top of.
